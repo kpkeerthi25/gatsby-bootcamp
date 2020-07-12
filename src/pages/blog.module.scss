@@ -1,0 +1,23 @@
+.post{
+    margin-bottom: 50px;
+    padding: 0 0;
+    li{
+        margin: 1rem 0;
+        list-style: none;
+        a{
+            text-decoration: none;
+            background-color: #f4f4f4;
+            display: block;
+            padding: 0.7rem 1.2rem;
+        }
+        h3{
+            margin: 1rem 0;
+        }
+        a:hover{
+            background-color: #e4e4e4;
+        }
+        a:active{
+            color: black;
+        }
+    }   
+}
